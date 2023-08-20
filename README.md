@@ -5,19 +5,18 @@
 
 - 💡  &nbsp; Electronic Engineer.
 
-- 💻 &nbsp; Full Stack Developer.
+- 💻 &nbsp; Software Developer.
 
 
 <h3>🛠 Stack</h3>
 <h4>💻 &nbsp; Programming Languages</h4>
 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
  ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
- ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+ 
 
  <h4>💻 &nbsp; Frameworks, Platforms and Libraries</h4> 
  
@@ -30,6 +29,10 @@
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
+<h4>💻 &nbsp; Databases</h4> 
+
+![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/MYSQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 
 <h4>🔧 &nbsp; Others Tools</h4> 
 
